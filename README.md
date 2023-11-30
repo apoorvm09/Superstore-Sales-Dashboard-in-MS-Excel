@@ -1,6 +1,6 @@
 # Superstore-Sales-Dashboard-in-MS-Excel
 
-![Dashboard Screenshot](https://github.com/apoorvm09/Superstore-Sales-Dashboard-in-MS-Excel/blob/main/MS%20Excel%20Dashboard%20Screenshot.png)
+![Dashboard Screenshot](https://github.com/apoorvm09/Superstore-Sales-Dashboard-in-MS-Excel/blob/f97d51bc80ec251a3d8cb9553d59c4e0aff51a82/MS%20Excel%20Dashboard%20Screenshot.png)
 
 Overview- The Excel Superstore Dashboard is a data visualization project that leverages the power of Microsoft Excel to provide valuable insights and analytics for a hypothetical "Superstore" business. This project showcases the use of various Excel features, including Pivot Tables, Slicers, Filters, and additional custom functions to create an interactive and informative dashboard.
 
